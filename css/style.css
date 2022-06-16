@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+/* .app {
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+} */
+/* h1 {
+  padding:20px 0;
+  font-family: Arial;
+  line-height: 50px;
+}
+img {
+  width: 100%;
+  height: 505px;
+  cursor: pointer;
+}
+.imgLamp {
+  position: absolute;
+  z-index: 0;
+}
+.iimg {
+  position: absolute;
+  left: 2px;
+  z-index: 1;
+}
+.divBox {
+  position: relative;
+  width: 346px;
+  height: 505px;
+  margin: 0 auto;
+}
+.imgLampMiacrac {
+  position: absolute;
+  left: 10px;
+}
+.dexin {
+  z-index: 0;
+  position: absolute;
+} */
